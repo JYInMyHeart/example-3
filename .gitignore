@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/out/foo/ideaCompileOutput.dest/classes/
+/out/foo/test/ideaCompileOutput.dest/classes/
